@@ -1,0 +1,571 @@
+14.9: ADC Setup
+
+-Ghost for scaling lane/teamfights
+-Barrier for extra peel with enchanter
+-Heal to contest lane
+-Cleanse vs chain/deadly cc (Leona,Thresh,etc...)
+-TP for scaling/weakside
+-Ignite for agressive lanes (Lucian/Nami, etc...)
+
+***
+On Zeri going Zeal item or Damage item 2nd is purely by pref
+***
+
+-Aphelios:
+*VS Dive/Poke (squishies, go fleet):
+Stormrazor>IE>BT>Optional
+*VS Dive (tankiness, go fleet):
+Stormrazor>(LDR>IE/IE>LDR depending on your comp melt)>BT
+*Front-to-back (Run Conqueror w Cutdown vs heavy tanks, huge with aphelios late game scaling):
+Kraken>IE>LDR>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+-Ashe:
+*VS Dive (Squishies):
+-Stormrazor>Kraken>Hurricane/PD>Optional (If you can't auto a lot)
+-Kraken>Hurricane>Shieldbow>Optional (If you can auto)
+*Front-to-back:
+-Bork>Hurricane>LDR>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+-Caitlyn:
+*VS Dive (go fleet):
+-Stormrazor>IE>RFC>Optional
+*VS Tanks (go tempo):
+-Kraken>IE>LDR>RFC>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+-Draven: (in every game that you are ahead no matter who you are against, go for BF Sword on first recall)
+*VS Squishies (go hail):
+-Essence Reaver>IE>Collector>LDR
+*VS Tanks (go tempo):
+-Collector>IE>LDR>BT
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+-Ezreal: (alwasy tear/something on first recall asap)
+*VS Squishies (go pta or conqueror depending on kill lane potential):
+-Essence Reaver>Manamune>Shojin>Optional
+*VS Tanks:
+-Essence Reaver>Manamune>Shojin>LDR>Black Cleaver/Bork (if needed otherwise optional)
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Jhin: ()
+*VS Squishies (go fleet):
+-Stormrazor>IE>Collector>Optional
+*VS Tanks:
+-Stormrazor>IE>LDR>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Jinx: (rush berserkers too op)
+*VS Squishies:
+-Kraken>IE>Zeal item>Optional
+*VS Tanks:
+-Kraken>Zeal item>LDR (IF needed vs hp stackers mundo ornn etc..., otherwise IE and LDR 4th)>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Kai'Sa: (for any build, you gotta get q evolve asap)
+*VS Squishies (go hail):
+-Manamune>Ludens>Cryptobloom>Optional
+-Stormrazor>Rageblade>Nashors>Optional
+*VS Tanks without dive (go tempo):
+-Kraken>Terminus>Rageblade>Optional
+*VS Tanks with dive (go tempo):
+-Kraken>(Terminus if low on gold, Navori if fed)>PD or Hurricane>Optional
+*Front-to-back (go tempo):
+-Kraken>Navori>Hurricane>LDR>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Kalista:
+*VS Squishies (go hail):
+-opportunity>Edge of night>Serylda>Axiom
+*VS Tanks (go temoo):
+-Bork>Rageblade>Terminus>Jaksho (if needed, otherwise another defensive item like Wits end)>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Kog'Maw (go tempo w ghost and cosmic insight):
+-Bork>Rageblade>Hurricane>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Lucian (rune choice depends a lot on your gameplay, if you're heavy trading go for first strike, if you're playing for scale/first target go pta):
+*VS Squishies/Poke:
+-Stormrazor>RFC>(IE or Navori depending on enemy comp, in other words depending on wether you need your E a lot in fights or not)
+-Kraken>IE>RFC>Optional
+*VS Tanks:
+-Kraken>Navori>LDR>Optional
+*Playing for tempo:
+-Shiv>RFC>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Miss Fortune:
+*VS Squishies (go first strike):
+-Ghostblade>Collector>Optional
+*VS Tanks with dive (go pta):
+-Stormrazoz>IE>LDR>Optional
+*VS Tanks without dive (go tempo):
+-Kraken>IE>LDR>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+Samira:
+-Collector>IE>LDR (if tanks) or BT (if fed vs squishies)>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Senna (fasting only, and make sure you rush swiftness boots on your first recall):
+-Opportunity>RFC (if giga fed)>Edge of night (vs dive/cc) or Ghostblade>LDR>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Sivir:
+-Kraken>Navori>LDR (if tanks) or BT (if fed/vs poke)>Optional
+-Shiv>Navori>Opportunity (this build is specifically built for tempo only, you just perma shove waves insta)
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Smolder (go fleet):
+-Essence Reaver>Shojin>RFC>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Tristana:
+*VS Squishies (go hail if kill lane):
+-Kraken>Navori>BT>Zeal item
+*VS Tanks (go tempo):
+-Kraken>Navori>LDR>PD
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Twitch:
+*VS Squishies (go pta):
+-Bork>hurricane>IE>Optional
+*VS Tanks (go tempo):
+-Bork>Rageblade>Hurricane
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Varus:
+*VS Squishies/can't auto (go hail, make sure you swiftness boots all games and get tear under 10mins, you can skip it for Dirk if you got 1k recall):
+-Opportunity (if fed) or Ghostblade (if game is slow)>Manamune>Serylda>Opportunity
+*VS Tanks (go tempo):
+-Bork>Rageblade>Terminus>Jaksho>Opportunity (can sometimes skip Terminus Jaksho combination if fed/not needed)
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Vayne:
+*VS Squishies (go fleet with numbus cloack and celerity):
+-Stormrazor>Trinity>RFC>Optional
+*VS Tanks (go tempo):
+-Kraken>Rageblade>Terminus>Jaksho
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Xayah (go tempo):
+-Kraken>Navori>LDR (if tanks) or BT (if fed/poke)>Optional
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Zeri:
+Watch this video as Reptile explains Zeri in-depth zeri itemization
+https://x.com/Reptile9LoL/status/1770966059928985658
+
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+
+
+14.10:
+
+Summoners:
+
+Barrier:
+migrated to use data values instead of effect amounts
+shield:  105-411 linear for 2.0s  -->  120-480 linear for 2.5s
+
+Cleanse:
+migrated to use data values instead of effect amounts
+lingering tenacity:  65% for 3.0s  -->  75% for 3.0s
+cooldown:  210s --> 240s
+
+Exhaust:
+migrated to use data values instead of effect amounts
+slow:  30% --> 40%
+cooldown:  210s --> 240s
+
+Ghost:
+duration:  15s --> 10s
+cooldown:  210s --> 240s
+
+Heal:
+ally heal range:  835 --> 900
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Boots:
+
+Boots of Swiftness:
+innate speed:  60 --> 45
+slow resist:  25% --> removed
+attacks now grant +(30 melee, 20 ranged) speed for 2s
+
+Mercury's Treads:
+cost:  1100g --> 1000g
+MR:  25 --> 30
+tenacity:  30% --> 20%
+
+Mobility Boots:
+removed
+
+Plated Steelcaps:
+cost:  1100g --> 1000g
+armor:  20 --> 25
+block percent:  12% --> 8%
+
+Symbiotic Soles:
+new item
+recipe:  Boots + 600g  =  900g
+MS:  35
+passive:  your Recall is empowered
+quest:  after traveling 150k units of distance, upgrades to Synchronized Souls
+for reference, SR is about 15k units on each side, and about 21k units diagonally
+this includes a data value that appears to cap the distance gained per tick to 500? i.e. Recall and global teleports won't super charge it?
+"With each step, your mind slips..."
+
+Synchronized Souls:
+new item
+MS:  45
+passive:  your Recall is empowered
+passive:  gain +45 MS out of combat
+"... closer to perfection."
+
+Zephyr:
+is now a boots item
+recipe:
+old:  BF Sword + Dagger + Dagger + 900g  =  2800g
+new:  Berserker's Greaves + 2000g  =  3100g
+requires level 15 to purchase
+now grants +20% slow resist
+MS:  10% --> 65 flat
+tenacity:  35% --> removed
+AD:  50 --> removed
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Crit Legendary Items:
+
+Bloodthirster:
+recipe:
+old:  BF Sword + Cloak of Agility + Vampiric Scepter + 600g  =  3400g
+new:  BF Sword + Pickaxe + Vampiric Scepter + 325g  =  3400g
+no longer grants extra AD above 70% health
+now converts excess healing from lifesteal into an overshield, up to 50-400 linear, decaying after 25s out of combat
+crit chance:  20% --> removed
+AD:  55 --> 80
+
+Collector:
+recipe:
+old:  Serrated Dirk + Pickaxe + Cloak of Agility + 625g  =  3100g
+new:  BF Sword + Serrated Dirk + Cloak of Agility + 300g  =  3200g
+crit chance:  20% --> 25%
+AD:  55 --> 60
+lethality:  16 --> 15
+
+Essence Reaver:
+recipe:
+old:  Sheen + Caulfield's Warhammer + Cloak of Agility + 300g  =  2900g
+new:  BF Sword + Caulfield's Warhammer + Cloak of Agility + 200g  =  3200g
+no longer a Spellblade item
+new passive:  basic attacks refund 15 +10% bAD mana onhit
+there is also some leftover data implying they tested some sort of stacking mechanic?
+crit chance:  20% --> 25%
+AH:  20 --> 25
+AD:  60 --> 65
+
+Immortal Shieldbow:
+recipe:
+old:  Pickaxe + Cloak of Agility + Vampiric Scepter + 625g  =  3000g
+new:  Pickaxe + Noonquiver + 725g  =  3000g
+crit chance:  20% --> 25%
+AD:  50 --> 55
+lifesteal:  12% --> removed
+
+Infinity Edge:
+cost:  3300g --> 3400g
+crit chance:  20% --> 25%
+AD:  65 --> 80
+
+Kraken Slayer:
+recipe:
+old:  Noonquiver + Cloak of Agility + Recurve Bow + 400g  =  3000g
+new:  Rectrix + Hearthbound Axe + Recurve Bow + 200g  =  3100g
+crit chance:  20% --> removed
+now grants +7% MS
+AD:  40 --> 50
+AS:  35% --> 40%
+passive damage amp:  up to x2.0 on the third repeat trigger  -->  up to x1.5 based on target missing health
+
+Lord Dominik's Regards:
+armor pen:  35% --> 40%
+crit chance:  20% --> 25%
+AD:  40 --> 45
+no longer deals increased damage based on target's max health advantage
+
+Mercurial Scimitar:
+recipe:
+old:  Quicksilver Sash + Cloak of Agility + Pickaxe + 225g  =  3000g
+new:  Quicksilver Sash + Pickaxe + Vampiric Scepter + 225g  =  3300g
+crit chance:  20% --> removed
+now grants +10% lifesteal
+
+Mortal Reminder:
+crit chance:  20% --> 25%
+
+Navori:
+name: "Navori Quickblades" --> "Navori Flickerblade"
+recipe:
+old:  BF Sword + Caulfield's Warhammer + Cloak of Agility + 300g  =  3300g
+new:  Dagger + Zeal + Dagger + 900g  =  2600g
+crit chance:  20% --> 25%
+no longer amps champion spell and proc damage up to x1.2 based on crit chance
+CDR refund:  12% --> 15%
+AH:  15 --> removed
+AD:  65 --> removed
+now grants +7% MS and +40% AS, despite allegedly no longer being "quick"
+Ornn's "Flicker" upgrade also inherited these changes despite still not being accessible
+
+Phantom Dancer:
+recipe:
+old:  Zeal + Rectrix + 800g  =  2800g
+new:  Dagger + Zeal + Dagger + 900g  =  2600g
+MS:  10% --> 12%
+crit chance:  20% --> 25%
+AD:  20 --> removed
+AS:  30% --> 60%
+no longer grants increased AS on attack
+still grants ghosting
+
+Rapid Firecannon:
+recipe:
+old:  Long Sword + Zeal + Kircheis Shard + 850g  =  3000g
+new:  Zeal + Scout's Slingshot + 600g  =  2600g
+crit chance:  20% --> 25%
+AD:  30 --> removed
+AS:  20% --> 35%
+
+Runaan's Hurricane:
+recipe:
+old:  Recurve Bow + Zeal + 1000g  =  2800g
+new:  Zeal + Scout's Slingshot + 600g  =  2600g
+no longer applies 30 onhit magic damage
+bolt tAD scaling:  40% --> 55%
+crit chance:  20% --> 25%
+
+Statikk Shiv:
+recipe:
+old:  Noonquiver + Cloak of Agility + Kircheis Shard + 300g  =  2900g
+new:  Scout's Slingshot + Hearthbound Axe + 700g  =  2900g
+crit chance:  20% --> removed
+AS:  30% --> 40%
+new passive:  Killing enemies fires chain lightning that deals 90 magic damage hitting up to 6 additional targets (3s cooldown). Lighting from killing champions deals x3.0 damage and has no cooldown.
+
+Stormrazor:
+removed
+
+Yun Tal Wildarrows:
+new item
+recipe:  Pickaxe + Noonquiver + 925g  =  3200g
+crit chance:  25%
+AD:  65
+passive:  Serrated Edge:  crits deal 35% tAD additional physical damage over 2s
+
+Blade of the Ruined King:
+onhit damage:
+ranged:  9% --> 6%
+melee:  12% --> 9%
+monster cap:  60 --> 100
+AD:  40 --> 55
+AS:  25% --> 30%
+lifesteal:  8% --> 10%
+passive slow trigger:  first attack --> third attack
+
+Terminus:
+recipe:
+old:  Recurve Bow + BF Sword + Recurve Bow + 300g  =  3000g
+new:  Hearthbound Axe + Recurve Bow + 1000g  =  3000g
+AD:  40 --> 35
+AS:  30% --> 35%
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Runes:
+
+Precision:
+
+Press the Attack:
+burst damage:  40-180 linear --> 40-160 linear
+damage amp:  +8% to all damage (including allies) to the target for 6s  -->  +8% to your damage to all targets for 5s, refreshing in combat
+cooldown:  6s after triggering --> 5s out of combat
+
+Lethal Tempo:
+removed
+
+Fleet Footwork:
+healing:  10-130 linear --> 8-110 linear
+minions still reduce effectiveness to x0.2 for melee and x0.1 ranged
+speed duration:  1.0s --> 1.25s
+
+Overheal:
+removed
+
+Absorb Life:
+new rune
+row:  1
+killing a target heals you for 2-17 linear.
+
+Legend Tenacity:
+removed
+
+Legend Haste:
+new rune
+row 2
+gain 1.5 AH for every Legend stack (max 15 AH at 10 stacks)
+
+Cut Down:
+damage amp:  5%-15% at >10%-100% target health advantage  -->  8% at >60% target health
+
+Domination:
+
+Predator:
+removed
+
+Hail of Blades:
+attack speed:  110% always  -->  110% melee, 80% ranged
+
+Sudden Impact:
+cooldown:  4s --> 10s
+no longer grants hybrid pen for 4s after any damage within 5s following mobility/stealth
+now deals 20-80 linear true damage after the next attack or ability damage within 4s following mobility/stealth
+
+Ingenious Hunter:
+removed
+
+Relentless Hunter:
+starting out of combat speed:  5 --> 0
+
+Inspiration:
+
+First Strike:
+damage amp:  7% --> 8%
+base gold:  5 --> 15
+melee gold from bonus damage:  100% --> 50%
+ranged gold from bonus damage:  70% --> 35%
+
+Future's Market:
+removed
+
+Cash Back:
+new rune
+row:  1
+get 6% gold back when you purchase legendary items
+
+Triple Tonic:
+row:  1 --> 2
+Time Warp Tonic
+row:  3 --> 2
+no longer works on biscuits
+no longer works on mana (reminder that Corrupting Potion is removed)
+no longer grants 2% tMS while the potion is active
+immediate potion health restore:  30% --> 40%
+
+Minion Dematerializer:
+removed
+
+Jack of All Trades:
+new rune
+row:  3
+for each different stat gained from items, gain one Jack stack. Each stack grants you 1 AH. Gain 10 or 25 bonus adaptive force at 5 and 10 stacks (i.e. does not add them together for a total of 35).
+
+Systems:
+
+Minion xp splits (Duo lane):
+solo:  95% base xp
+group split evenly:  116% base xp --> 124% base xp
